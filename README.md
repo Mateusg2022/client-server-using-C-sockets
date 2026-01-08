@@ -42,3 +42,5 @@ terminal 3 (se quiser testar multi-thread handling): ./client 127.0.0.1 5151
 ```
 
 Neste exemplo, o protocolo é IPv4, porém você pode mudar para IPv6 (neste caso, use o localhost ::1 no lugar de 127.0.0.1) e também pode usar outra porta livre do seu sistema.
+
+<img width="1749" height="315" alt="image" src="https://github.com/user-attachments/assets/37d646eb-4736-4467-9f5a-35b0df6813be" />
