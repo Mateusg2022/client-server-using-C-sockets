@@ -1,0 +1,4 @@
+common.o
+client
+server-mt
+server
