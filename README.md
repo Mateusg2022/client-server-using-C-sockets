@@ -1,4 +1,4 @@
-<h1>Multithread Cliet-Server using C sockets</h1>
+<h1>Multithread Client-Server using C sockets</h1>
 <h3>Redes de Computadores</h3>
 
 Projeto desenvolvido seguindo a <a href="https://www.youtube.com/playlist?list=PLyrH0CFXIM5Wzmbv-lC-qvoBejsa803Qk">playlist</a> de aulas do professor Ítalo Cunha, do DCC/UFMG.
